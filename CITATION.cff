@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: article
+title: "Da Valenca Mechanica: Leonardo da Vinci's Codex Madrid I as a Modular Mechanical Language"
+authors:
+  - family-names: Vallance
+    given-names: Richard Steven
+    alias: Da Valenca
+    affiliation: "Da Valenca — Leonardo Project, United Kingdom"
+abstract: >
+  This paper argues that Codex Madrid I is best understood as a structured corpus
+  of reusable engineering modules whose coherence emerges when read simultaneously
+  at three levels: text as demonstration, reverse folio sequence as instruction,
+  and marginal note as governing law. Six original priority claims are registered,
+  including the complete flintlock prototype (c.1493-97, 115 years before le Bourgeoys),
+  resonant impulse accumulation, combined clock-and-orrery platform, Chiaravalle dating
+  anchor, seepage alignment as design registration, and over-centre toggle-lock doctrine.
+keywords:
+  - Leonardo da Vinci
+  - Madrid Codex I
+  - Modular Mechanical Architecture
+  - Central Shaft
+  - Sensale
+  - V3 Layer Model
+  - BNE Transcripts
+  - Seepage Alignment
+  - Da Valenca Method
+  - Kinematic Continuum
+  - Flintlock Prototype
+  - Escapement Physics
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-05-13"
+url: "https://github.com/richievallance/rumour-harm-white-paper"
+repository-code: "https://github.com/richievallance/rumour-harm-white-paper"
