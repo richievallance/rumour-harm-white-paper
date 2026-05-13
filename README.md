@@ -1,3 +1,5 @@
+![Rumour Harm — Sociological White Paper](assets/covers/rumour_harm_cover_v1.svg)
+
 # Rumour Harm
 
 ## Sociological White Paper — Sanitised Public Release
