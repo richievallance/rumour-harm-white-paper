@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "title": "Da Valenca Mechanica: Leonardo da Vinci's Codex Madrid I as a Modular Mechanical Language",
+    "title": "Rumour Harm: Digital Sociology, Reputational Contagion, and Networked Harm",
     "upload_type": "publication",
     "publication_type": "article",
-    "description": "This paper argues that Codex Madrid I is best understood not as a miscellaneous notebook of mechanical sketches, but as a structured corpus of reusable engineering modules whose coherence emerges when the manuscript is read simultaneously at three levels: text as demonstration, reverse folio sequence as instruction, and marginal note as governing law. Six original priority claims are registered, none of which appears in the prior scholarship: the complete flintlock prototype (c.1493–97, 115 years before le Bourgeoys); the resonant impulse accumulation principle as the theoretical basis of escapement physics; the combined clock-and-orrery modular platform identification; the Chiaravalle abbey clock as a precision dating anchor; seepage alignment as intentional design registration; and the over-centre toggle-lock doctrine.",
+    "description": "A sociological white paper examining rumour propagation, reputational harm, and digital contagion in networked environments. Analyses amplification chains, institutional failure modes, and the network dynamics of reputational damage.",
     "creators": [
       {
         "name": "Vallance, Richard Steven",
@@ -16,26 +16,12 @@
     "version": "1.0.0",
     "language": "eng",
     "keywords": [
-      "Leonardo da Vinci",
-      "Madrid Codex I",
-      "Modular Mechanical Architecture",
-      "Central Shaft",
-      "Sensale",
-      "V3 Layer Model",
-      "BNE Transcripts",
-      "Seepage Alignment",
-      "Da Valenca Method",
-      "Kinematic Continuum",
-      "Flintlock Prototype",
-      "Escapement Physics"
+      "rumour",
+      "digital sociology",
+      "reputational harm",
+      "contagion",
+      "network propagation"
     ],
-    "related_identifiers": [
-      {
-        "identifier": "https://github.com/richievallance/rumour-harm-white-paper",
-        "relation": "isSupplementTo",
-        "scheme": "url"
-      }
-    ],
-    "notes": "Independent scholarly research. Primary sources: BNE Ms.8937 (Madrid Codex I), folios f.0r–f.25r, BNE transcript files 5869–5956. © 2026 Richard Steven Vallance. All Intellectual Property and Copyright Reserved."
+    "notes": "Ecosystem C — Autobiographical / Sociological. Parent: richard-vallance-archive. \u00a9 2026 Richard Steven Vallance."
   }
 }
