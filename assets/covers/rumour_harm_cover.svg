@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1100" viewBox="0 0 800 1100">
+  <rect width="800" height="1100" fill="#f0f0f0"/>
+  <rect width="800" height="1100" fill="#1a1a1a" opacity="0.96"/>
+
+  <!-- Social network nodes -->
+  <g fill="none" stroke="#e8e8e8" stroke-width="0.7" opacity="0.15">
+    <line x1="400" y1="300" x2="220" y2="180"/><line x1="400" y1="300" x2="580" y2="180"/>
+    <line x1="400" y1="300" x2="160" y2="380"/><line x1="400" y1="300" x2="640" y2="380"/>
+    <line x1="400" y1="300" x2="200" y2="480"/><line x1="400" y1="300" x2="600" y2="480"/>
+    <line x1="220" y1="180" x2="120" y2="100"/><line x1="220" y1="180" x2="320" y2="100"/>
+    <line x1="580" y1="180" x2="680" y2="100"/><line x1="580" y1="180" x2="480" y2="100"/>
+    <line x1="160" y1="380" x2="80" y2="300"/><line x1="640" y1="380" x2="720" y2="300"/>
+    <line x1="200" y1="480" x2="120" y2="560"/><line x1="600" y1="480" x2="680" y2="560"/>
+  </g>
+  <!-- Nodes -->
+  <g fill="#cc2200">
+    <circle cx="400" cy="300" r="10"/><circle cx="220" cy="180" r="7"/><circle cx="580" cy="180" r="7"/>
+    <circle cx="160" cy="380" r="6"/><circle cx="640" cy="380" r="6"/>
+    <circle cx="200" cy="480" r="5"/><circle cx="600" cy="480" r="5"/>
+    <circle cx="120" cy="100" r="4"/><circle cx="320" cy="100" r="4"/>
+    <circle cx="680" cy="100" r="4"/><circle cx="480" cy="100" r="4"/>
+    <circle cx="80" cy="300" r="4"/><circle cx="720" cy="300" r="4"/>
+    <circle cx="120" cy="560" r="4"/><circle cx="680" cy="560" r="4"/>
+  </g>
+  <!-- Spread wave rings -->
+  <circle cx="400" cy="300" r="100" fill="none" stroke="#cc2200" stroke-width="1" opacity="0.2"/>
+  <circle cx="400" cy="300" r="180" fill="none" stroke="#cc2200" stroke-width="1" opacity="0.15"/>
+  <circle cx="400" cy="300" r="260" fill="none" stroke="#cc2200" stroke-width="0.5" opacity="0.1"/>
+
+  <!-- Red accent bar -->
+  <rect x="20" y="580" width="760" height="4" fill="#cc2200" opacity="0.8"/>
+
+  <!-- Border -->
+  <rect x="20" y="20" width="760" height="1060" fill="none" stroke="#e8e8e8" stroke-width="1.5" opacity="0.3"/>
+
+  <!-- Title -->
+  <text x="60" y="640" font-family="Arial, sans-serif" font-size="18" fill="#e8e8e8" letter-spacing="6" opacity="0.6">INFORMATION CASCADE</text>
+  <text x="60" y="710" font-family="Arial, sans-serif" font-size="62" fill="white" font-weight="bold">RUMOUR</text>
+  <text x="60" y="780" font-family="Arial, sans-serif" font-size="62" fill="#cc2200" font-weight="bold">HARM</text>
+  <line x1="60" y1="800" x2="500" y2="800" stroke="#e8e8e8" stroke-width="0.5" opacity="0.4"/>
+  <text x="60" y="840" font-family="Arial, sans-serif" font-size="15" fill="#a0a0a0">Institutional Damage and Social Contagion</text>
+  <text x="60" y="865" font-family="Arial, sans-serif" font-size="13" fill="#606060">Sociology · Information Science · 2026</text>
+
+  <text x="60" y="960" font-family="Arial, sans-serif" font-size="14" fill="#a0a0a0">Richard Steven Vallance</text>
+  <text x="60" y="980" font-family="Arial, sans-serif" font-size="11" fill="#606060">The People Focused Group · Doncaster, UK</text>
+  <text x="60" y="1058" font-family="Arial, sans-serif" font-size="10" fill="#404040" letter-spacing="3">© 2026 RICHARD STEVEN VALLANCE</text>
+</svg>
